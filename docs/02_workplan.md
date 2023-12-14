@@ -1,6 +1,7 @@
 ---
 title: Plan de trabajo
 ---
+
 ## Cronograma de actividades
 
 Del 27 de Septiembre al 7 de Diciembre de 2023 con 6 horas diarias en la franja horaria de 8 a 14 hs.
