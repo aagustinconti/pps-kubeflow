@@ -4,8 +4,8 @@ site_description: Despliegue de plataforma para desarrollo, entrenamiento e impl
 site_author: Aguilera Conti Agustín
 
 # Github
-repo_url: https://github.com/danunziata/pps-agustin_conti_2023
-repo_name: danunziata/pps-agustin_conti_2023
+repo_url: https://github.com/aagustinconti/pps-kubeflow
+repo_name: aagustinconti/pps-kubeflow
 
 # Design
 theme:
@@ -57,7 +57,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/danunziata/pps-agustin_conti_2023
+      link: https://github.com/aagustinconti/pps-kubeflow
       name: Repo URL
 
 
